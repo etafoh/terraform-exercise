@@ -43,5 +43,5 @@ output/curl command to get the hello world text that the application serves.
  
 https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-tomcat
 
-#Elv what the hell are you doing
+
 
