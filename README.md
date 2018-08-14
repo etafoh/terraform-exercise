@@ -42,3 +42,5 @@ application into the VPC, reconfigure Nginx as a reverse proxy to the Java app. 
 output/curl command to get the hello world text that the application serves.
  
 https://github.com/spring-projects/spring-boot/tree/master/spring-boot-samples/spring-boot-sample-tomcat
+
+#THIS IS A TEST COMMENT
